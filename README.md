@@ -22,6 +22,7 @@ I chose this area because of the love I have for the computer and its technologi
   <img align="center" alt="Joao-Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Joao-Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-plain.svg">
   <img align="center" alt="Joao-Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg">
+  <img align="center" alt="Joao-Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-plain.svg">
   
   
 </div>
