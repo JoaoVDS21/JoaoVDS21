@@ -1,4 +1,9 @@
-### Olá, Eu sou o João Victor 👋
+### Hello, I'm João Victor 👋
+
+<p>I'm 18 years old, and I've been studying web programming since I was 15 years old when I entered the technical course of Integrated Systems Development in High School.
+I chose this area because of the love I have for the computer and its technologies involved, I found a world where I can help people, that is, facilitating actions, managing daily life.</p>
+
+<p>Curiosity was what helped me the most during that time, as I was always looking to learn more of what was being passed on to me and I wanted to know how each detail worked. I don't see myself outside of this area, as it is with it that I will achieve my dreams and goals, always aiming to evolve my skills and soft skills.</p>
 
 ##
 
@@ -21,6 +26,7 @@
   ##
   
 <div> 
+  <h3>😁 Contact me: </h3>
   <a href="https://www.instagram.com/_joao.vds_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joao.programmers2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-801365225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
