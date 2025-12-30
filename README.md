@@ -1,6 +1,6 @@
 ### Hello, I'm João Victor 👋
 
-<p>I'm 18 years old, and I've been studying web programming since I was 15 years old when I entered the technical course of Integrated Systems Development in High School.
+<p>I'm 21 years old, and I've been studying web programming since I was 15 years old when I entered the technical course of Integrated Systems Development in High School.
 I chose this area because of the love I have for the computer and its technologies involved, I found a world where I can help people, that is, facilitating actions, managing daily life.</p>
 
 <p>Curiosity was what helped me the most during that time, as I was always looking to learn more of what was being passed on to me and I wanted to know how each detail worked. I don't see myself outside of this area, as it is with it that I will achieve my dreams and goals, always aiming to evolve my skills and soft skills.</p>
